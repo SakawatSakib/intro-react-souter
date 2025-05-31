@@ -12,6 +12,7 @@ const Header = () => {
                 <NavLink to='/laptops'>Laptops</NavLink>
                 <NavLink to='/users'>User</NavLink>
                 <NavLink to='/users2'>User2</NavLink>
+                <NavLink to= 'posts'>Posts</NavLink>
             </nav>
         </div>
     );
